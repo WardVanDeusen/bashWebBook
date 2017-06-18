@@ -31,7 +31,6 @@ eval "a2ps --pro=color --pretty-print= -o $PRETTIFY $VARPATH$FILENAME"
 				echo "$ROUTE"
 
 
-#Notes, wanted to link both eval lines of code with "&&" but second a2ps line was inconsistant. Wonder if it is time related.
 
 
 
