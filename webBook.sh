@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Grab information from webapages and save as a prettified booklike docs
-#Save save file in ~/webBook.sh make executable and run sudo ./webBook.sh after cutting/pasting link and nameing file
+#Save file in ~/webBook.sh make executable and run sudo ./webBook.sh after cutting/pasting link and nameing file
 
 #Cut and paste the link here. *in quotes
 LINK="https://github.com/meteor-useraccounts/core/blob/master/Guide.md#boilerplates"
